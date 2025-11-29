@@ -1,8 +1,8 @@
 # Pegasus v1.1 , v1.2 — ADB Utility Toolkit
 
 > **Use for Educational Purpose Only — Stay Ethical.**  
-> Creator: **thakur2309**  
-> YouTube: **Firewall Breaker**
+> Creator: **mrzerotrace**  
+> YouTube: **in11min**
 
 Pegasus is a simple, menu‑driven Python tool that helps you work with Android devices via **ADB**.  
 It’s perfect for beginners who want a clean interface to: check device info, connect over Wi‑Fi, take screenshots, record the screen, mirror the display (via **scrcpy**), and list installed APKs.
@@ -26,9 +26,7 @@ It’s perfect for beginners who want a clean interface to: check device info, c
 ---
 ## 🗝️ Licence key
 - 🔐 Licence key - `FIREWALLBREAKER`
-- 📌 Instagram Username `sudo_xploit`
   
-- 👉 [Instagram](https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==)
 
 ---
 ### Example Output V-1.1 🎥
@@ -236,14 +234,14 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
 ---
 
 👨‍💻 **Author**  
-- Made with ❤️ by **thakur2309** 
-- Name: **Alok Thakur**  
+- Made with ❤️ by **thakur2309 and update with mrzerotrace** 
+- Name: **mrzerotrace**  
 - YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
 
 ---
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@firewallbreaker09">
+<a href="https://youtube.com/@in11min">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>  
 <br>  
@@ -252,8 +250,3 @@ Stay ethical — **Firewall Breaker** community promotes **learning & safety**, 
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
-
-<a href="https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel">
-</a>
-
